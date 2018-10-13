@@ -1,5 +1,7 @@
 # Magento2 (Varnish + PHP7 + Redis + SSL) cluster ready docker-compose infrastructure
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/docker-magento2.svg)](https://www.guardrails.io)
+
 ## Infrastructure overview
 * Container 1: MariaDB
 * Container 2: Redis (for Magento's cache)
